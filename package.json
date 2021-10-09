@@ -1,6 +1,28 @@
 {
   "name": "color-tags",
   "version": "1.0.0",
-  "description": "change the HTML elements color easy and simple",
-  "main": "/src/src.css",
+  "description": "change HTML elements color easy and simple",
+  "main": "src/src.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ALFARSI2008",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ALFARSI2008/color-tags.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ALFARSI2008/color-tags/issues"
+  },
+  "homepage": "https://github.com/ALFARSI2008/color-tags#readme",
+  "keywords": [
+    "tags",
+    "css",
+     "tags",
+    "html", 
+     "color",
+     "tag", 
+
+  ]
 }

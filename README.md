@@ -62,6 +62,9 @@ then..
 
 `<orange>Color </orange><green> tags</green>`
 
+OUTPUT
+
+![output](https://media.discordapp.net/attachments/894175480381575168/896409947611480114/Screenshot_2021_1008_204611.png)
 
 
 # Use it with other packages

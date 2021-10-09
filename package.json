@@ -2,7 +2,7 @@
   "name": "color-tags",
   "version": "1.0.0",
   "description": "change HTML elements color easy and simple",
-  "main": "src/src.css",
+  "main": "src.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

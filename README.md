@@ -1,5 +1,5 @@
 # color-tags
-change the HTML elements color easy and simple 
+change HTML elements color easy and simple 
 
 
 

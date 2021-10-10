@@ -56,9 +56,8 @@ darkorange,
 
 To install this package add
 
-`<script src="https://cdn.jsdelivr.net/gh/ALFARSI2008/color-tags/src.css"> </script>`
-
-to your html file (typically that's index.html).
+`  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/ALFARSI2008/color-tags/src.css"> `
+to your html file (typically that's index.html) in head section
 
 then.. 
 

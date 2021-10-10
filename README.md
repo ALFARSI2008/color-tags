@@ -54,9 +54,11 @@ darkorange,
 
 # How to use it
 
-copy this CDN to youre script
+To install this package add
 
-`cdn`
+`<script src="https://cdn.jsdelivr.net/gh/ALFARSI2008/color-tags/src.css"> </script>`
+
+to your html file (typically that's index.html).
 
 then.. 
 

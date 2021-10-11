@@ -80,7 +80,7 @@ indianred
 
 To install this package add
 
-`  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/ALFARSI2008/color-tags/src.css"> `
+`  <link rel="stylesheet" href="https://github.com/ALFARSI2008/color-tags/blob/v1.1/src.css"> `
 to your html file (typically that's index.html) in head section
 
 then.. 

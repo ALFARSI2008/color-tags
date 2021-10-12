@@ -5,7 +5,7 @@ change HTML elements color easy and simple
 
 # Supported colors
 
-### Supported 43 color
+### Supported 67 color
 
 black,
 silver,
@@ -50,13 +50,37 @@ dark grey,
 dark khaki,
 dark olivegreen,
 dark orange, 
-
+darkorchid,
+darkred,
+darksalmon,
+darkseagreen,
+darkslateblue,
+darkslategray,
+darkturquoise,
+darkviolet,
+deeppink,
+deepskyblue,
+dimgray,
+dimgrey,
+dodgerblue,
+firebrick,
+floralwhite,
+forestgreen,
+fuchsia,
+gainsboro,
+ghostwhite,
+gold,
+goldenrod,
+greenyellow,
+honeydew,
+hotpink,
+indianred
 
 # How to use it
 
 To install this package add
 
-`  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/ALFARSI2008/color-tags/src.css"> `
+`  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/ALFARSI2008/color-tags@v1.1/src.css"> `
 to your html file (typically that's index.html) in head section
 
 then.. 

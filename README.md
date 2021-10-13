@@ -87,7 +87,9 @@ to your html file (typically that's index.html) in head section
 
 then.. 
 
-`<orange>Color </orange><green> tags</green>`
+```html
+<orange>Color </orange><green> tags</green>
+```
 
 OUTPUT
 

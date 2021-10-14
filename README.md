@@ -90,11 +90,27 @@ then..
 ```html
 <orange>Color </orange><green> tags</green>
 ```
-
-OUTPUT
+**OUTPUT**
 
 ![output](https://media.discordapp.net/attachments/894175480381575168/896409947611480114/Screenshot_2021_1008_204611.png)
 
+# Custom colors
+
+```html
+<script src="https://cdn.jsdelivr.net/gh/ALFARSI2008/color-tags@v1.2/customColors.js"></script>
+```
+to your html file (typically that's index.html) in body section
+
+then...
+
+```html
+<custom-color color="#8000ff">Color tags</custom-color>
+```
+**OUTPUT**
+
+![OUTPUT](https://media.discordapp.net/attachments/894175480381575168/898265484259115018/Screenshot_2021_1014_214521.png)
+
+- you can only use hex / rgb / rgba colors
 
 # Use it with other packages
 

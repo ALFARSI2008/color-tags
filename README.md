@@ -1,4 +1,4 @@
-![icon](https://media.discordapp.net/attachments/894175480381575168/898662798991720469/Screenshot_2021_1015_235839-removebg-preview.png) # color tags
+# ![icon](https://media.discordapp.net/attachments/894175480381575168/898662798991720469/Screenshot_2021_1015_235839-removebg-preview.png) color tags
 change HTML elements color easy and simple 
 
 

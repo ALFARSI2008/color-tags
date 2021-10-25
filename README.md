@@ -1,7 +1,17 @@
 # ![icon](https://media.discordapp.net/attachments/894175480381575168/898662798991720469/Screenshot_2021_1015_235839-removebg-preview.png)
 change HTML elements color easy and simple 
 
+# Why you should use this?
+ It's like a shortcut for HTML, You can use it as `<font>` but a shorter way!
+<br>the default way:
+```html
+<span style="color:blue">blue</span>
+```
 
+with the package:
+```html
+<blue>blue</blue>
+``` 
 
 # Supported colors
 
